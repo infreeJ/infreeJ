@@ -1,46 +1,49 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77a2da,100:c1a7e6&height=120&text=Hello!&animation=fadeIn&fontColor=e3e3e3&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=infreeJ&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infreeJ&layout=compact&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
-    
+### 안녕하세요, 백엔드 개발자 이준혁입니다. 👋
 
-<!--
-**infreeJ/infreeJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Java와 Spring을 중심으로, **효율적이고 안정적인 비즈니스 로직을 구현하는 것**에 집중하는 개발자입니다.
 
-Here are some ideas to get you started:
+새로운 기술을 배우고 적용하는 과정을 즐기며, 특히 객체지향 원칙과 클린 코드를 적용해 **유지보수하기 좋은 코드**를 작성하려 노력합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Project
+
+### 1. [프로젝트 1: Staylog]
+* **설명:** 커뮤니티 기반 숙소 예약 웹서비스
+* **핵심 기술:** Java, Spring Boot, Spring Security, Oracle, MyBatis, AWS EC2, JWT, React, Bootstrap CSS, TypeScript
+* **[➡️ Backend Repository](https://github.com/Acorn-Team-404/Staylog_Backend)**
+* **[➡️ Frontend Repository](https://github.com/Acorn-Team-404/Staylog_Frontend)**
+
+### 2. [프로젝트 2: Artify]
+* **설명:** 사용자가 작성한 일기를 바탕으로 AI 이미지를 생성해주는 웹서비스
+* **핵심 기술:** Java, Spring Boot, Spring Security, OpenAI API, Oracle, MyBatis, JWT, React, Tailwind CSS, TypeScript, JWT
+* **[➡️ Repository](https://github.com/infreeJ/artify)**
+
+
+---
+## 🛠️ Teck Stack
+
+* **Language:** Java, JavaScript, TypeScript
+* **Framework:** Spring (Boot, MVC, Security, AI), React
+* **ORM:** JPA, MyBatis
+* **Database:** Oracle
+* **View:** JSP/Servlet, Thymeleaf
+* **CSS:** BootStrap, Tailwind
+* **DevOps:** AWS EC2, Docker
+* **Tools:** Git, Github, Postman, JUnit
+---
+
+## 📫 Contact
+
+* **Email:** [kasious97@naver.com]
+
+---
+
+## 📊 깃허브 통계
+
+
+![[이준혁]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=infreeJ&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infreeJ&layout=compact&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000)
+
+
+
