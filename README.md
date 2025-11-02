@@ -8,13 +8,13 @@
 
 ## 🚀 Project
 
-### 1. Staylog
+### 1. Staylog (진행중)
 * **설명:** 커뮤니티 기반 숙소 예약 웹서비스
 * **핵심 기술:** Java, Spring Boot, Spring Security, Oracle, MyBatis, AWS EC2, JWT, React, Bootstrap CSS, TypeScript
 * **[➡️ Backend Repository](https://github.com/Acorn-Team-404/Staylog_Backend)**
 * **[➡️ Frontend Repository](https://github.com/Acorn-Team-404/Staylog_Frontend)**
 
-### 2. Artify
+### 2. Artify (진행중)
 * **설명:** 사용자가 작성한 일기를 바탕으로 AI 이미지를 생성해주는 웹서비스
 * **핵심 기술:** Java, Spring Boot, Spring Security, OpenAI API, Oracle, MyBatis, JWT, React, Tailwind CSS, TypeScript, JWT
 * **[➡️ Repository](https://github.com/infreeJ/artify)**
