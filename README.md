@@ -2,7 +2,7 @@
 
 > Java와 Spring을 중심으로, **효율적이고 안정적인 비즈니스 로직을 구현하는 것**에 집중하는 개발자입니다.
 
-새로운 기술을 배우고 적용하는 과정을 즐기며, 특히 객체지향 원칙과 클린 코드를 적용해 **유지보수하기 좋은 코드**를 작성하려 노력합니다.
+새로운 기술을 배우고 적용하는 과정을 즐기며 객체지향 원칙과 클린 코드를 적용해 **유지보수하기 좋은 코드**를 작성하려 노력합니다.
 
 ---
 
@@ -30,7 +30,7 @@
 * **View:** JSP/Servlet, Thymeleaf
 * **CSS:** BootStrap, Tailwind
 * **DevOps:** AWS EC2, Docker
-* **Tools:** Git, Github, Postman, JUnit
+* **Tools:** Git, Github
 ---
 
 ## 📫 Contact
