@@ -8,7 +8,7 @@
 
 ## 🚀 Project
 
-### 1. Staylog (진행중)
+### 1. Staylog (2025.10.13 ~ 2025.11.12)
 * **설명:** 커뮤니티 기반 숙소 예약 웹서비스
 * **핵심 기술:** Java, Spring Boot, Spring Security, Oracle, MyBatis, AWS EC2, JWT, React, Bootstrap CSS, TypeScript
 * **[➡️ Backend Repository](https://github.com/Acorn-Team-404/Staylog_Backend)**
