@@ -15,23 +15,24 @@
 * **[➡️ Backend Repository](https://github.com/Acorn-Team-404/Staylog_Backend)**
 * **[➡️ Frontend Repository](https://github.com/Acorn-Team-404/Staylog_Frontend)**
 
-### 2. Artify (진행중)
+### 2. Moment Canvas (2025.11.21 ~ 진행중)
 * **설명:** 사용자가 작성한 일기를 바탕으로 AI 이미지를 생성해주는 웹서비스
-* **핵심 기술:** Java, Spring Boot, Spring Security, OpenAI API, Oracle, MyBatis, JWT, React, Tailwind CSS, TypeScript, JWT
-* **[➡️ Repository](https://github.com/infreeJ/artify)**
+* **핵심 기술:** Java, Spring Boot, Spring Security, Spring AI, OpenAI API, Redis, MySQL, JPA, Docker, JWT, React, TypeScript, Tailwind CSS
+* **[➡️ Repository](https://github.com/infreeJ/moment-canvas)**
 
 
 ---
 ## 🛠️ Teck Stack
 
-* **Language:** Java, JavaScript, TypeScript
-* **Framework:** Spring (Boot, MVC, Security, AI), React
+* **Language:** Java, TypeScript, JavaScript
+* **Framework:** Spring(Boot, MVC, Security, AI), React
 * **ORM:** JPA, MyBatis
-* **Database:** Oracle
+* **Database:** MySQL, Oracle
 * **View:** JSP/Servlet, Thymeleaf
 * **CSS:** BootStrap, Tailwind
 * **DevOps:** AWS EC2, Docker
 * **Tools:** Git, Github
+* **ETC:** JWT
 ---
 
 ## 📫 Contact
