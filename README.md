@@ -4,46 +4,32 @@
 
 새로운 기술을 배우고 적용하는 과정을 즐기며 객체지향 원칙과 클린 코드를 적용해 **유지보수하기 좋은 코드**를 작성하려 노력합니다.
 
+* **Email:** kasious97@naver.com
+
 ---
 
-## 🚀 Project
+## Project
 
 ### 1. Staylog (2025.10.13 ~ 2025.11.12)
 * **설명:** 커뮤니티 기반 숙소 예약 웹서비스
 * **핵심 기술:** Java, Spring Boot, Spring Security, Oracle, MyBatis, AWS EC2, JWT, React, Bootstrap CSS, TypeScript
-* **[➡️ Site URL](https://staylog.store/)**
-* **[➡️ Backend Repository](https://github.com/Acorn-Team-404/Staylog_Backend)**
-* **[➡️ Frontend Repository](https://github.com/Acorn-Team-404/Staylog_Frontend)**
+* **[Site URL ->](https://staylog.store/)**
+* **[Backend Repository ->](https://github.com/Acorn-Team-404/Staylog_Backend)**
+* **[Frontend Repository ->](https://github.com/Acorn-Team-404/Staylog_Frontend)**
 
 ### 2. Moment Canvas (2025.11.21 ~ 진행중)
 * **설명:** 사용자가 작성한 일기를 바탕으로 AI 이미지를 생성해주는 웹서비스
 * **핵심 기술:** Java, Spring Boot, Spring Security, Spring AI, OpenAI API, Redis, MySQL, JPA, Docker, JWT, React, TypeScript, Tailwind CSS
-* **[➡️ Repository](https://github.com/infreeJ/moment-canvas)**
-
+* **[Repository ->](https://github.com/infreeJ/moment-canvas)**
 
 ---
-## 🛠️ Teck Stack
+## Teck Stack
 
-* **Language:** Java, TypeScript, JavaScript
-* **Framework:** Spring(Boot, MVC, Security, AI), React
-* **ORM:** JPA, MyBatis
-* **Database:** MySQL, Oracle
-* **View:** JSP/Servlet, Thymeleaf
-* **CSS:** BootStrap, Tailwind
+* **Backend:** Java, Spring(Boot, Security, MVC, AI), Redis, JPA, MyBatis, JSP/Servlet, Thymeleaf
+* **Database:** MySQL, OracleDB
+* **Frontend:** React, TypeScript, JavaScript
 * **DevOps:** AWS EC2, Docker
 * **Tools:** Git, Github
 * **ETC:** JWT
----
-
-## 📫 Contact
-
-* **Email:** [kasious97@naver.com]
 
 ---
-
-
-![[이준혁]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=infreeJ&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infreeJ&layout=compact&bg_color=60,5590dd,d8c0c0&title_color=000000&text_color=000000)
-
-
-
